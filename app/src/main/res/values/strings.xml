@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidModule2Lesson4Task1GameMenu</string>
+    <string name="about">About</string>
+    <string name="options">Options</string>
+    <string name="continue_tv">Continue</string>
+    <string name="new_game">New game</string>
+</resources>
